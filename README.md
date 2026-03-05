@@ -48,4 +48,3 @@ Significant Volcanic Eruptions Dataset
 ## Author
 
 Sneha Besu  
-Computer Science Graduate from UNSW
