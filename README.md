@@ -4,7 +4,9 @@ An interactive Tableau dashboard analysing global volcanic eruption frequency, s
 
 ## Dashboard Preview
 
-<img src="images/volcano-dashboard-preview.png" width="700">
+<p align="center">
+  <img src="images/volcano-dashboard-preview.png" width="700">
+</p>
 
 ## Live Dashboard
 
