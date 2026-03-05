@@ -2,6 +2,14 @@
 
 An interactive Tableau dashboard analysing global volcanic eruption frequency, severity, and geographic distribution over time.
 
+## Dashboard Preview
+
+<img src="images/volcano-dashboard-preview.png" width="700">
+
+## Live Dashboard
+
+[https://public.tableau.com/your-link](https://public.tableau.com/views/VolcanicEruptionsandHumanImpactseconditeration/VolcanicEruptionsandHumanImpactFrequencySeverityandSpatialConcentration?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Project Overview
 
 This project explores global volcanic activity to understand patterns in eruption frequency, geographic concentration, and human impact over time. The dashboard highlights long-term trends in volcanic behaviour and provides context for how monitoring, evacuation systems, and disaster preparedness have influenced fatality outcomes.
@@ -29,14 +37,6 @@ This project explores global volcanic activity to understand patterns in eruptio
 - Eruption frequency appears to increase over time, possibly due to improved monitoring and reporting systems
 - Fatalities from volcanic eruptions have generally declined despite continued volcanic activity
 - Certain geographic regions experience significantly higher eruption concentration, particularly along the Pacific Ring of Fire
-
-## Dashboard Preview
-
-![Dashboard Preview](images/volcano-dashboard-preview.png)
-
-## Live Dashboard
-
-[https://public.tableau.com/your-link](https://public.tableau.com/views/VolcanicEruptionsandHumanImpactseconditeration/VolcanicEruptionsandHumanImpactFrequencySeverityandSpatialConcentration?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dataset
 
