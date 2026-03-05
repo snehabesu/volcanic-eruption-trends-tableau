@@ -36,9 +36,9 @@ This project explores global volcanic activity to understand patterns in eruptio
 
 ## Key Insights
 
-- Eruption frequency appears to increase over time, possibly due to improved monitoring and reporting systems
-- Fatalities from volcanic eruptions have generally declined despite continued volcanic activity
-- Certain geographic regions experience significantly higher eruption concentration, particularly along the Pacific Ring of Fire
+- Eruption frequency appears to **increase over time**, possibly due to improved monitoring and reporting systems
+- Fatalities from volcanic eruptions have **generally declined** despite continued volcanic activity
+- Certain geographic regions experience significantly higher eruption concentration, particularly along the **Pacific Ring of Fire**
 
 ## Dataset
 
