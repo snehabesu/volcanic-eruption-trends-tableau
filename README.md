@@ -10,7 +10,7 @@ An interactive Tableau dashboard analysing global volcanic eruption frequency, s
 
 ## Live Dashboard
 
-[https://public.tableau.com/your-link](https://public.tableau.com/views/VolcanicEruptionsandHumanImpactseconditeration/VolcanicEruptionsandHumanImpactFrequencySeverityandSpatialConcentration?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/VolcanicEruptionsandHumanImpactseconditeration/VolcanicEruptionsandHumanImpactFrequencySeverityandSpatialConcentration?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Overview
 
